@@ -9,7 +9,7 @@ npx creat-react-app my-app --template jt
 
 # or
 
-yarn create react-app my-app --template
+yarn create react-app my-app --template jt
 ```
 
 For more information, please refer to:
