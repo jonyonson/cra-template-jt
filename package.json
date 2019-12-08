@@ -1,0 +1,25 @@
+{
+  "name": "cra-template-jt",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "An opinionated template for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonyonson/cra-template-jt.git"
+  },
+  "author": "Jonathan Taylor <taylor.jonathan.dev@gmail.com> (https://jonathantaylor.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonyonson/cra-template-jt/issues"
+  },
+  "homepage": "https://github.com/jonyonson/cra-template-jt#readme",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
