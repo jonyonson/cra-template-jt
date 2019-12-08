@@ -102,8 +102,3 @@ dist
 
 # TernJS port file
 .tern-port
-
-# package manager template files
-template/package.json
-template/node_modules
-template/yarn.lock
