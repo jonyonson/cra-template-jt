@@ -1,5 +1,5 @@
 {
-  "devDependencies": {
+  "dependencies": {
     "source-map-explorer": "^2.1.2"
   },
   "scripts": {

@@ -1,6 +1,6 @@
 {
   "name": "cra-template-jt",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "react",
     "create-react-app",
@@ -14,6 +14,9 @@
   },
   "author": "Jonathan Taylor <taylor.jonathan.dev@gmail.com> (https://jonathantaylor.io)",
   "license": "MIT",
+  "engines": {
+    "node": ">=8.10"
+  },
   "bugs": {
     "url": "https://github.com/jonyonson/cra-template-jt/issues"
   },
