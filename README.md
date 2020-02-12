@@ -5,7 +5,7 @@ To use this template, add `--template jt` when creating a new app.
 For example:
 
 ```
-npx creat-react-app my-app --template jt
+npx create-react-app my-app --template jt
 
 # or
 
